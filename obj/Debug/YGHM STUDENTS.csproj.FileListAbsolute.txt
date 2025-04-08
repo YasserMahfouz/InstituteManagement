@@ -1,0 +1,1436 @@
+c:\users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+c:\users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+c:\users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+c:\users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+c:\users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+c:\users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+c:\users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+c:\users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+c:\users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+c:\users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\yasser\Documents\Visual Studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\yasser\documents\visual studio 2012\Projects\YGHM STUDENTS\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+H:\YGHM STUDENTS1\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+H:\YGHM STUDENTS1\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+H:\YGHM STUDENTS1\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.AssemblyReference.cache
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.cache
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.CoreCompileInputs.cache
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+H:\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS2\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\yasser\Desktop\YGHM STUDENTS3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\yasser\Desktop\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\yasser\Desktop\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\YGHM STUDENTS3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\YGHM STUDENTS3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\YGHM STUDENTS3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\YGHM STUDENTS3\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\yasser\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+H:\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+H:\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+H:\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.AssemblyReference.cache
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.cache
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.CoreCompileInputs.cache
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+H:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\5\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+H:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+I:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+I:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+I:\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+D:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.reportV.elqima.resources
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+H:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\2البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\4البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\5البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+H:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\6البرنامج\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+H:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+H:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+H:\النظام الجديد\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\new system\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\new system1\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+H:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+H:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+H:\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\New folder\new system2\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\New folder\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\qrcode\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\qrcode2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\qrcode3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\qrcode4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\qrcode5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\qrcode6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\qrcode7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\qrcode8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\qrcode9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\bixolon\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon2\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon3\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon4\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+C:\Users\mousa\Desktop\bixolon5\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon6\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\bixolon7\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon8\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon9\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon10\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+C:\Users\yaser\Desktop\bixolon11\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+G:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+C:\Users\mousa\Downloads\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.dll
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+D:\bixolon12\withBarCode\Elbernameg\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\zxing.xml
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+C:\Users\mousa\Desktop\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+G:\YGHM STUDENTS4\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+G:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+G:\YGHM STUDENTS4\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\bin\Debug\zxing.xml
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.estimaraForm.resources
+C:\Users\mousa\Desktop\c\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.copyOfStudentForm.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\bin\Debug\zxing.xml
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.copyOfStudentForm.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.estimaraForm.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+C:\Users\mousa\Desktop\final\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\bin\Debug\zxing.xml
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.copyOfStudentForm.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.estimaraForm.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+C:\Users\mousa\Desktop\final1\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\bin\Debug\zxing.xml
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.copyOfStudentForm.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.estimaraForm.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+C:\Users\mousa\Desktop\final2\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\final3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\New folder\final3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csprojResolveAssemblyReference.cache
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.copyOfStudentForm.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.estimaraForm.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.SanadForKist.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.Cache
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\RdlCompile.cache
+E:\New folder\final3\YGHM STUDENTS\obj\Debug\RdlCompile.compiled
+E:\New folder\final3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+E:\New folder\final3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+E:\New folder\final3\YGHM STUDENTS\bin\Debug\zxing.xml
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.AssemblyReference.cache
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.copyOfStudentForm.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.estimaraForm.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.observingBills.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.billQuery.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Login.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.retrieve.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.printRetrieve.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.sanadat.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.SanadForKist.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.kists.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Classes.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Courses.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.dismissed.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.extend.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Form1.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.Password.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.receipt.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.PL.remaining.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Properties.Resources.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.Record.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.qima.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM_STUDENTS.rep.forPrint.resources
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.GenerateResource.cache
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.csproj.CoreCompileInputs.cache
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.exe
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM STUDENTS.pdb
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe.config
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.exe
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\YGHM STUDENTS.pdb
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\AxShockwaveFlashObjects.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.Shared.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\ShockwaveFlashObjects.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\stdole.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\zxing.xml
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ملفات المعهد\البرنامج\final3\YGHM STUDENTS\obj\Debug\YGHM STU.92C80EF0.Up2Date

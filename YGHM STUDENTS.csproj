@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7770589B-574E-4FBB-BDCA-12534FA38565}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YGHM_STUDENTS</RootNamespace>
+    <AssemblyName>YGHM STUDENTS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ادارة-الأعمال.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.6.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\مثال للباركود\packages\ZXing.Net.0.16.6\lib\net40\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\Courses.cs" />
+    <Compile Include="BL\Dismissed.cs" />
+    <Compile Include="BL\Extend.cs" />
+    <Compile Include="BL\Main.cs" />
+    <Compile Include="BL\Receipt.cs" />
+    <Compile Include="BL\Record.cs" />
+    <Compile Include="BL\remaining.cs" />
+    <Compile Include="copyOfStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="copyOfStudentForm.Designer.cs">
+      <DependentUpon>copyOfStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DL.cs" />
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="estimaraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="estimaraForm.Designer.cs">
+      <DependentUpon>estimaraForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kists.Designer.cs">
+      <DependentUpon>kists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="moons.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>moons.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="moonsDataSet.cs">
+      <DependentUpon>moonsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="moonsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>moonsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="observingBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="observingBills.Designer.cs">
+      <DependentUpon>observingBills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\billQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\billQuery.Designer.cs">
+      <DependentUpon>billQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Classes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Classes.Designer.cs">
+      <DependentUpon>Classes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Courses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Courses.Designer.cs">
+      <DependentUpon>Courses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\dismissed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\dismissed.Designer.cs">
+      <DependentUpon>dismissed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\extend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\extend.Designer.cs">
+      <DependentUpon>extend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Password.Designer.cs">
+      <DependentUpon>Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\receipt.Designer.cs">
+      <DependentUpon>receipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\remaining.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\remaining.Designer.cs">
+      <DependentUpon>remaining.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\retrieve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\retrieve.Designer.cs">
+      <DependentUpon>retrieve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="printRetrieve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="printRetrieve.Designer.cs">
+      <DependentUpon>printRetrieve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PL\Record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Record.Designer.cs">
+      <DependentUpon>Record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="qima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qima.Designer.cs">
+      <DependentUpon>qima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rep\additionalmonthPrint.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>additionalmonthPrint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rep\carts.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>carts.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rep\certif.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>certif.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rep\forPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rep\forPrint.Designer.cs">
+      <DependentUpon>forPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rep\mafsoleenPrint.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mafsoleenPrint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rep\sanadPrint.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sanadPrint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="retriev.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>retriev.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sanadat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sanadat.Designer.cs">
+      <DependentUpon>sanadat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanadForKist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanadForKist.Designer.cs">
+      <DependentUpon>SanadForKist.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="sanadForKist.rdlc" />
+    <EmbeddedResource Include="Copy of StudentForm.rdlc" />
+    <EmbeddedResource Include="copyOfStudentForm.resx">
+      <DependentUpon>copyOfStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="estimaraForm.resx">
+      <DependentUpon>estimaraForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="observer.rdlc" />
+    <EmbeddedResource Include="observingBills.resx">
+      <DependentUpon>observingBills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\billQuery.resx">
+      <DependentUpon>billQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\retrieve.resx">
+      <DependentUpon>retrieve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="printRetrieve.resx">
+      <DependentUpon>printRetrieve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="retrieveReport.rdlc" />
+    <EmbeddedResource Include="sanad.rdlc" />
+    <EmbeddedResource Include="sanadat.resx">
+      <DependentUpon>sanadat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanadForKist.resx">
+      <DependentUpon>SanadForKist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentForm.rdlc" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="moons.dbml.layout">
+      <DependentUpon>moons.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="aksat.rdlc" />
+    <EmbeddedResource Include="kists.resx">
+      <DependentUpon>kists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Classes.resx">
+      <DependentUpon>Classes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Courses.resx">
+      <DependentUpon>Courses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\dismissed.resx">
+      <DependentUpon>dismissed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\extend.resx">
+      <DependentUpon>extend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Password.resx">
+      <DependentUpon>Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\receipt.resx">
+      <DependentUpon>receipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\remaining.resx">
+      <DependentUpon>remaining.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PL\Record.resx">
+      <DependentUpon>Record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qima.resx">
+      <DependentUpon>qima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="rep\additionalmonthPrint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>additionalmonthPrint.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rep\carts.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>carts.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rep\certif.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>certif.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rep\forPrint.resx">
+      <DependentUpon>forPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rep\mafsoleenPrint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>mafsoleenPrint.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rep\sanadPrint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>sanadPrint.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="moons.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>moons.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="moonsDataSet.xsc">
+      <DependentUpon>moonsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="moonsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>moonsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="moonsDataSet.xss">
+      <DependentUpon>moonsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="retriev.xsc">
+      <DependentUpon>retriev.xsd</DependentUpon>
+    </None>
+    <None Include="retriev.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>retriev.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="retriev.xss">
+      <DependentUpon>retriev.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying-glass-icon-vector-search-260nw-1727624158.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6f83b48b53867a7f2710ea4d3b8ec4fc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.png" />
+    <None Include="Resources\12.png" />
+    <None Include="Resources\green refresh.jpg" />
+    <None Include="Resources\YGHM.jpg" />
+    <Content Include="ادارة-الأعمال.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="reportV\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Textbox Name="Textbox30">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>استمارة تسجيل وقبول</Value>
+                <Style>
+                  <FontFamily>PT Bold Heading</FontFamily>
+                  <FontSize>14pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>4.39891cm</Top>
+        <Left>7.85698cm</Left>
+        <Height>0.98658cm</Height>
+        <Width>5.24941cm</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox1">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>الاسم:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>5.6555cm</Top>
+        <Left>17.57684cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.11125cm</Width>
+        <ZIndex>1</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox2">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!name.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>5.6555cm</Top>
+        <Left>7.32781cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>9.92187cm</Width>
+        <ZIndex>2</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox3">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>الجنسية:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>5.6555cm</Top>
+        <Left>5.33378cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.5875cm</Width>
+        <ZIndex>3</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox4">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!nation.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>5.6555cm</Top>
+        <Left>1.91099cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>3.09562cm</Width>
+        <ZIndex>4</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox5">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>رقم الهوية:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>6.7888cm</Top>
+        <Left>16.75663cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.93145cm</Width>
+        <ZIndex>5</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox6">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!id.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>6.7888cm</Top>
+        <Left>10.73295cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>5.84729cm</Width>
+        <ZIndex>6</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox7">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>رقم الجوال:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>6.7888cm</Top>
+        <Left>6.93365cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>2.35479cm</Width>
+        <ZIndex>7</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Image Name="Image4">
+        <Source>Embedded</Source>
+        <Value>akmar</Value>
+        <Sizing>Fit</Sizing>
+        <Top>0.73327cm</Top>
+        <Left>8.28658cm</Left>
+        <Height>2.21396cm</Height>
+        <Width>2.8608cm</Width>
+        <ZIndex>8</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Image>
+      <Textbox Name="Textbox8">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!mobile.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>6.7888cm</Top>
+        <Left>1.91098cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>4.6787cm</Width>
+        <ZIndex>9</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Line Name="Line1">
+        <Top>7.9221cm</Top>
+        <Left>1.73748cm</Left>
+        <Height>0cm</Height>
+        <Width>17.20461cm</Width>
+        <ZIndex>10</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Line>
+      <Textbox Name="Textbox9">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>المؤهل:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>8.20873cm</Top>
+        <Left>15.60926cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>3.07883cm</Width>
+        <ZIndex>11</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox10">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>........................................................................................................</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>8.20873cm</Top>
+        <Left>8.01448cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>7.48895cm</Width>
+        <ZIndex>12</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox11">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>البريد الالكتروني:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>9.34203cm</Top>
+        <Left>15.60925cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>3.07883cm</Width>
+        <ZIndex>13</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox15">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>اسم الدورة المسجل فيها:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>10.47533cm</Top>
+        <Left>14.70084cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>3.98724cm</Width>
+        <ZIndex>14</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox16">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!courseName.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>10.51061cm</Top>
+        <Left>7.03948cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>7.59081cm</Width>
+        <ZIndex>15</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox17">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>مدتها:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>10.51061cm</Top>
+        <Left>5.75184cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.11125cm</Width>
+        <ZIndex>16</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox12">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>........................................................................................................</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>9.34203cm</Top>
+        <Left>10.42248cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>5.11621cm</Width>
+        <ZIndex>17</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox23">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>الرسوم التدريبية:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>11.60863cm</Top>
+        <Left>15.60926cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>3.07884cm</Width>
+        <ZIndex>18</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox24">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!cost.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>11.60863cm</Top>
+        <Left>12.40865cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>3.02422cm</Width>
+        <ZIndex>19</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox25">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>طريقة الدفع:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>11.60863cm</Top>
+        <Left>6.75727cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>2.43146cm</Width>
+        <ZIndex>20</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox26">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=iif(Fields!remain.Value&gt;0,"أقساط","نقدا")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>11.60863cm</Top>
+        <Left>2.67303cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>3.90785cm</Width>
+        <ZIndex>21</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox27">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>شروط التدريب داخل المعهد:</Value>
+                <Style>
+                  <FontFamily>PT Bold Heading</FontFamily>
+                  <FontSize>11pt</FontSize>
+                  <TextDecoration>Underline</TextDecoration>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>12.75693cm</Top>
+        <Left>13.91593cm</Left>
+        <Height>0.86872cm</Height>
+        <Width>4.77216cm</Width>
+        <ZIndex>22</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox29">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>معهد الأقمار للتدريب والتعليم</Value>
+                <Style>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>حاسب آلي ولغات</Value>
+                <Style>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>المؤسسة العامة للتدريب التقني والمهني</Value>
+                <Style>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>وزارة التعليم</Value>
+                <Style>
+                  <FontSize>16pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>0.73327cm</Top>
+        <Left>12.01cm</Left>
+        <Height>2.66375cm</Height>
+        <Width>7.56709cm</Width>
+        <ZIndex>23</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox39">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>الشفــــــا مقـــــابــــــل مسجـــــد الأمــــــيرة هـــــــياء- هاتف 112975556، تحويلة صفر - فاكس : 2975557</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>27.31536cm</Top>
+        <Left>1.7375cm</Left>
+        <Height>0.70583cm</Height>
+        <Width>16.9506cm</Width>
+        <ZIndex>24</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox31">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>1. الحضور للتدريب يوميا من الأحد للخميس في الوقت المحدد من قبل الإدارة، وفي حالة الغياب (20%) من مدة الدورة بدون علم إدارة المعهد، يحرم المتدرب من دخول الاختبار النهائي ويعتبر مفصولا من الدورة حسب لوائح التدريب الأهلي.</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>2. الحضور للمعهد بزي لائق ( الزي الرسمي السعودي ) حسب تعليمات اللجان المشرفة، ويمنع تماما التواجد داخل المعهد بأي لبس غير لائق ( الشورت - قميص النوم وخلافه) حسب لوائح التدريب الأهلي.</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>3. في حالة الانسحاب من الدورة المسجل بها المتدرب لا يتم استرجاع أي مبالغ مالية وتنطبق عليه الشروط التالية:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>تأجيل الدورة لمدة ثلاثة أشهر فقط ( في حالة تسديد الرسوم كاملة).</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <ListStyle>Bulleted</ListStyle>
+            <ListLevel>1</ListLevel>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>احضار طالب بديل عن المسجل بالدورة خلال شهر من تاريخ التسجيل ( ابلاغ ادارة المعهد بذلك خلال اسبوع من تاريخ التسجيل) وما زاد عن ذلك فليس له الحق في التنازل لأي بديل، (في حالة تسديد الرسوم كاملة).</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <ListStyle>Bulleted</ListStyle>
+            <ListLevel>1</ListLevel>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>4. تحول الدورة من كاش الى اقساط في حالة عدم استكمال المبلغ خلال شهر من تاريخ التسجيل.</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>5. يلتزم المتدرب بدفع مبلغ </Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value>(460 ريال) اربعمائة وستون ريال</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                  <TextDecoration>Underline</TextDecoration>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value> عن كل شهر تدريب لدورة الحاسب(6 شهور/3 شهور) بعد انتهاء مدة الدورة وفي حالة تأخره عن الاختبار أو رغبته في تحسين درجة الاختبار.</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>6. يلتزم المتدرب بدفع مبلغ </Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value>(100 ريال) مائة ريال </Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                  <TextDecoration>Underline</TextDecoration>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value>في نهاية دورة الحاسب (6 شهور/3 شهور) رسوم حجز موعد الاختبار وتصديق الشهادة من الادارة العامة للتدريب الأهلي.</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>ملاحظة هامة: المبلغ المدفوع لا يسترد بعد التسجيل.</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                  <TextDecoration>Underline</TextDecoration>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>        توقيع المتدرب                                 توقيع موظف الاستقبال                                توقيع المدير</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>13.76676cm</Top>
+        <Left>1.73748cm</Left>
+        <Height>13.47805cm</Height>
+        <Width>16.95062cm</Width>
+        <ZIndex>25</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+            <Width>1.5pt</Width>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox18">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!duration.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>10.51061cm</Top>
+        <Left>3.38327cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.98933cm</Width>
+        <ZIndex>26</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox28">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>رقم الدورة</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>0.73327cm</Top>
+        <Left>5.11153cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.838cm</Width>
+        <ZIndex>27</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox32">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>التاريخ</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>1.59052cm</Top>
+        <Left>5.11153cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.838cm</Width>
+        <ZIndex>28</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox35">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!courseNumber.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>0.73327cm</Top>
+        <Left>1.96571cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>3.13446cm</Width>
+        <ZIndex>29</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox36">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!startDate.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                  <Format>dd/MM/yyyy</Format>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>1.59052cm</Top>
+        <Left>1.96571cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>3.13446cm</Width>
+        <ZIndex>30</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox33">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>المبلغ</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>2.42053cm</Top>
+        <Left>5.11153cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.838cm</Width>
+        <ZIndex>31</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox34">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>رقم السند</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>3.27778cm</Top>
+        <Left>5.11153cm</Left>
+        <Height>0.7673cm</Height>
+        <Width>1.838cm</Width>
+        <ZIndex>32</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox37">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!paid.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>2.42053cm</Top>
+        <Left>1.96571cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>3.13446cm</Width>
+        <ZIndex>33</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox38">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=First(Fields!receiptNumber.Value, "DataSet1")</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>3.27778cm</Top>
+        <Left>1.96571cm</Left>
+        <Height>0.7673cm</Height>
+        <Width>3.13446cm</Width>
+        <ZIndex>34</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox40">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=iif(Fields!company.Value = True, "شركة", "")</Value>
+                <Style>
+                  <FontSize>14pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox33</rd:DefaultName>
+        <Top>4.39891cm</Top>
+        <Left>3.27745cm</Left>
+        <Height>0.92603cm</Height>
+        <Width>3.31224cm</Width>
+        <ZIndex>35</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox41">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>شهر</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>10.47533cm</Top>
+        <Left>2.23674cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.11125cm</Width>
+        <ZIndex>36</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox42">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>ر.س.</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>11.591cm</Top>
+        <Left>11.22685cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.11125cm</Width>
+        <ZIndex>37</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox13">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>الوقت:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>8.20873cm</Top>
+        <Left>6.58489cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>1.25321cm</Width>
+        <ZIndex>38</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox14">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>........................................................................................................</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>8.20873cm</Top>
+        <Left>1.7375cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>4.671cm</Width>
+        <ZIndex>39</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox19">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>عنوان السكن:</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>9.34203cm</Top>
+        <Left>8.01448cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>2.23161cm</Width>
+        <ZIndex>40</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox20">
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>........................................................................................................</Value>
+                <Style>
+                  <FontFamily>Traditional Arabic</FontFamily>
+                  <FontSize>14pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox1</rd:DefaultName>
+        <Top>9.34203cm</Top>
+        <Left>1.67519cm</Left>
+        <Height>0.84667cm</Height>
+        <Width>6.1629cm</Width>
+        <ZIndex>41</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Direction>RTL</Direction>
+        </Style>
+      </Textbox>
+    </ReportItems>
+    <Height>11.03196in</Height>
+    <Style>
+      <Border>
+        <Style>Double</Style>
+        <Width>2.5pt</Width>
+      </Border>
+    </Style>
+  </Body>
+  <Width>7.77209in</Width>
+  <Page>
+    <PageHeight>29.7cm</PageHeight>
+    <PageWidth>21cm</PageWidth>
+    <LeftMargin>0.5cm</LeftMargin>
+    <RightMargin>0.5cm</RightMargin>
+    <TopMargin>0.5cm</TopMargin>
+    <BottomMargin>0.5cm</BottomMargin>
+    <ColumnSpacing>0.13cm</ColumnSpacing>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="retriev">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>37e0b418-7fa5-48a6-9f5c-646aa2fa74cf</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSet1">
+      <Query>
+        <DataSourceName>retriev</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="company">
+          <DataField>company</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="companyName">
+          <DataField>companyName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="cost">
+          <DataField>cost</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="startDate">
+          <DataField>startDate</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="enDate">
+          <DataField>enDate</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="courseId">
+          <DataField>courseId</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="duration">
+          <DataField>duration</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="remain">
+          <DataField>remain</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="id">
+          <DataField>id</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="name">
+          <DataField>name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="mobile">
+          <DataField>mobile</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="nation">
+          <DataField>nation</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="courseName">
+          <DataField>courseName</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="courseNumber">
+          <DataField>courseNumber</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="receiptNumber">
+          <DataField>receiptNumber</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="paid">
+          <DataField>paid</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+      </Fields>
+      <rd:DataSetInfo>
+        <rd:DataSetName>retriev</rd:DataSetName>
+        <rd:SchemaPath>C:\Users\mousa\Desktop\c\YGHM STUDENTS\retriev.xsd</rd:SchemaPath>
+        <rd:TableName>DataTable2</rd:TableName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:TableAdapterName>DataTable2TableAdapter</rd:TableAdapterName>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <EmbeddedImages>
+    <EmbeddedImage Name="akmar">
+      <MIMEType>image/jpeg</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>fc9dabb8-8fc0-4742-b0c1-a48a01cd7e21</rd:ReportID>
+</Report>
